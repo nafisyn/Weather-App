@@ -36,7 +36,7 @@ def submit():
                 stat_label.configure(text=f"Relative Humidity is {stat}%")
 
     if stat == None:
-         stat_label.configure(text="ERROR")    
+         stat_label.configure(text="No city/value named as so.")  
 
 
 #stats
