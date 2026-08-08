@@ -1,5 +1,5 @@
 # 🌤️ Weather App
-A simple Python desktop app that lets you search for a city and view its current weather.
+A simple Python windows desktop app that lets you search for a city and view its current weather.
 
 ## Features
 * 🌡️ Temperature
