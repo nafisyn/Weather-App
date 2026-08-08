@@ -36,4 +36,6 @@ Weather_Getter.py
 main.py
 Weather-App.exe
 README.md
+Empty-Screenshot.png
+Temperature-Berlin.png
 ```
