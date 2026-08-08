@@ -13,6 +13,13 @@ A simple Python desktop app that lets you search for a city and view its current
 * Requests
 * Weather API (Open Mateo: https://open-meteo.com/)
 
+* # .exe Window
+* # Default
+![Weather App](Empty-Screenshot.png)
+
+# Berlin Temperature
+![Weather App](Temperature-Berlin.png)
+
 ## Run
 ### Executable
 Run `Weather-App.exe`.
